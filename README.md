@@ -27,6 +27,12 @@ It provides insights into attendance, study hours, exam scores, and pass/fail ra
 
 ---
 
+## Data Source
+- The dataset used in this project was obtained from **[Kaggle] https://www.kaggle.com/**.  
+- It contains structured academic records of students, including demographics, attendance, study hours, exam scores, and performance categories.
+
+---
+
 ##  Dashboard Previews
 ### Page 1
 <img width="1326" height="737" alt="Screenshot 2026-06-30 211015" src="https://github.com/user-attachments/assets/9790b879-84c8-4ade-840c-ec3238545699" />
@@ -49,9 +55,14 @@ It provides insights into attendance, study hours, exam scores, and pass/fail ra
 
 ---
 
-## Data Source
-- The dataset used in this project was obtained from **[Kaggle] https://www.kaggle.com/**.  
-- It contains structured academic records of students, including demographics, attendance, study hours, exam scores, and performance categories.
+## Internship Project
+This dashboard was created as part of my **Data Analytics Internship at Approtech R&D Pvt. Ltd.**  
+- Duration: 15 days  
+- Role: Data Analytics Intern  
+- Responsibilities:  
+  - Importing and cleaning data from Kaggle  
+  - Designing interactive dashboards in Power BI  
+  - Visualizing student performance metrics for actionable insights  
 
 ---
 
