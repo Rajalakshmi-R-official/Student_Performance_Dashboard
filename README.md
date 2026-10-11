@@ -28,7 +28,7 @@ It provides insights into attendance, study hours, exam scores, and pass/fail ra
 ---
 
 ## Data Source
-- The dataset used in this project was obtained from **[Kaggle] https://www.kaggle.com/**.  
+- The dataset used in this project was obtained from **Kaggle https://www.kaggle.com/**.  
 - It contains structured academic records of students, including demographics, attendance, study hours, exam scores, and performance categories.
 
 ---
